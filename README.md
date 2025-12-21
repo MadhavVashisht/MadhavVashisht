@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/banner.png" width="100%" alt="Banner" />
 </div>
 
 <h1 align="center">Hi, I'm Madhav Vashisht <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
@@ -38,7 +38,7 @@
 
 <td width="40%" valign="center">
 <div align="center">
-<img src="https://github.com/MadhavVashisht/MadhavVashisht/blob/main/me.png?raw=true" width="85%" alt="Madhav's Avatar" />
+<img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/me.png" width="85%" alt="Madhav's Avatar" />
 </div>
 </td>
 </tr>
