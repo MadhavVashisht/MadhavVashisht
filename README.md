@@ -1,16 +1,19 @@
-<img src="./banner.png" width="100%" alt="Banner" />
+<div align="center">
+  <img src="https://github.com/MadhavVashisht/MadhavVashisht/blob/main/banner.png?raw=true" width="100%" alt="Banner" />
+</div>
 
 <h1 align="center">Hi, I'm Madhav Vashisht <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">Full Stack Developer | Student at CGC University</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MadhavVashisht&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/MadhavVashisht">
-    <img src="https://img.shields.io/github/followers/MadhavVashisht?label=Follow&style=social" alt="Follow">
-  </a>
+<img src="https://komarev.com/ghpvc/?username=MadhavVashisht&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<a href="https://github.com/MadhavVashisht">
+<img src="https://img.shields.io/github/followers/MadhavVashisht?label=Follow&style=social" alt="Follow">
+</a>
 </p>
 
 <br/>
+
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -22,6 +25,7 @@
 <li>🌱 I’m currently exploring <strong>Next.js, Framer Motion & AI Agents</strong></li>
 <li>📄 <strong>Resume:</strong> <a href="https://amadhav.com">View on my Portfolio</a></li>
 </ul>
+
 <h3>🛠 Tech Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -31,18 +35,21 @@
 <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GAS" />
 </p>
 </td>
+
 <td width="40%" valign="center">
-<img src="./me.png" width="100%" alt="Madhav's Avatar" />
+<div align="center">
+<img src="https://github.com/MadhavVashisht/MadhavVashisht/blob/main/me.png?raw=true" width="85%" alt="Madhav's Avatar" />
+</div>
 </td>
 </tr>
 </table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/madhav-vashisht/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://amadhav.com" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/globe.png" alt="website" height="27" width="27" style="background:white; border-radius:5px; padding:2px; margin-left:10px;" />
-  </a>
+<a href="https://www.linkedin.com/in/madhav-vashisht/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://amadhav.com" target="blank">
+<img align="center" src="https://img.icons8.com/ios-filled/50/000000/globe.png" alt="website" height="27" width="27" style="background:white; border-radius:5px; padding:2px; margin-left:10px;" />
+</a>
 </p>
