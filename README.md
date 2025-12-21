@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MadhavVashisht/MadhavVashisht/blob/main/banner.png?raw=true" width="100%" alt="Banner" />
+  <img src="./banner.png" width="100%" alt="Banner" />
 </div>
 
 <h1 align="center">Hi, I'm Madhav Vashisht <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
