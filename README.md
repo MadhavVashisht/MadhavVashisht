@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/banner.png" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/banner_v2.png" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -18,8 +18,7 @@
 </div>
 
 <div align="center">
-  <!-- Glowing Arc Reactor Core Element -->
-  <img src="https://i.pinimg.com/originals/e5/22/a3/e522a36b5db30e70a75f14227f422894.gif" width="120px" alt="Arc Reactor Core" />
+  <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/jarvis_core.png" width="120px" style="border-radius: 50%; box-shadow: 0 0 20px #00F2FE;" alt="Arc Reactor Core" />
 </div>
 
 ---
@@ -34,7 +33,7 @@
 {
   "location": "Mohali, India",
   "education": "B.Tech in Blockchain Tech @ CGC",
-  "core_focus": ["Full-Stack Dev", "AI & Computer Vision", "Automation"],
+  "core_focus": ["Full-Stack Dev", "AI & Computer Vision"],
   "current_deep_dive": ["Next.js", "Framer Motion", "AI Agents"],
   "notable_role": "Website Head @ Saviskar 2025",
   "portfolio": "<a href="https://amadhav.com" style="color: #4FACFE;">amadhav.com</a>"
@@ -42,7 +41,7 @@
       </pre>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/me.png" width="80%" style="border-radius: 12px; border: 2px solid #00F2FE; box-shadow: 0 0 15px #00F2FE;" alt="Madhav Avatar" />
+      <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/avatar_v2.png" width="80%" style="border-radius: 12px; border: 2px solid #00F2FE; box-shadow: 0 0 15px #00F2FE;" alt="Madhav Avatar" />
     </td>
   </tr>
 </table>
@@ -50,6 +49,11 @@
 ---
 
 ### 🛠 Tech Arsenal
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/tech_wheels_holographic.png" width="100%" style="border-radius: 12px;" alt="Tech Wheels" />
+</div>
+<br>
 
 <div align="left">
 
@@ -67,7 +71,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 </p>
 
 **AI, Vision & Ecosystem**  
@@ -85,27 +88,33 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🌌 NEURONOVA</h4>
-      <p>Interactive YOLO-based object detection platform with a sci-fi UI.</p>
-      <code>Python</code> • <code>YOLO</code> • <code>Streamlit</code>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/neuronova_node.png.jpg" width="90%" style="border-radius: 8px;" />
+      <h4 align="left">🌌 NEURONOVA</h4>
+      <p align="left">Interactive YOLO-based object detection platform with a sci-fi UI.</p>
+      <div align="left"><code>Python</code> • <code>YOLO</code> • <code>Streamlit</code></div>
     </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Saviskar 2025</h4>
-      <p>Full festival registration architecture with AWS SES OTP auth.</p>
-      <code>Node.js</code> • <code>AWS SES</code> • <code>Next.js</code>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/saviskar_pass.png" width="90%" style="border-radius: 8px;" />
+      <h4 align="left">⚡ Saviskar 2025</h4>
+      <p align="left">Full festival registration architecture with AWS SES OTP auth.</p>
+      <div align="left"><code>Node.js</code> • <code>AWS SES</code> • <code>Next.js</code></div>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 SETA Telegram Bot</h4>
-      <p>Automated desktop scheduling dispatching data to Telegram.</p>
-      <code>Python</code> • <code>Pandas</code> • <code>Telegram API</code>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/seta_server.png" width="90%" style="border-radius: 8px;" />
+      <h4 align="left">🤖 SETA Telegram Bot</h4>
+      <p align="left">Automated desktop scheduling dispatching data to Telegram.</p>
+      <div align="left"><code>Python</code> • <code>Pandas</code> • <code>Telegram API</code></div>
     </td>
-    <td width="50%" valign="top">
-      <h4>🎙️ Jarvis Assistant</h4>
-      <p>Custom Python-based voice automation for desktop operations.</p>
-      <code>Python</code> • <code>Automation</code> • <code>Speech API</code>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/react_portfolio_component.png" width="90%" style="border-radius: 8px;" />
+      <h4 align="left">🌐 React Portfolio</h4>
+      <p align="left">Modular web matrix built on a strict component architecture.</p>
+      <div align="left"><code>React</code> • <code>Tailwind</code> • <code>JavaScript</code></div>
     </td>
   </tr>
 </table>
@@ -115,7 +124,7 @@
 ### 📊 Telemetry & Activity (Live Data)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhavVashisht&show_icons=true&title_color=00F2FE&icon_color=4FACFE&text_color=A3B8CC&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhavVashisht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavVashisht&theme=dark&fire=00F2FE&ring=4FACFE&currStreakLabel=4FACFE&bg_color=0D1117&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
@@ -124,12 +133,12 @@
 ### 🌐 3D Contribution Matrix
 
 <div align="center">
-  <!-- Live 3D Isometric GitHub Contribution Graph -->
-  <img src="https://github-readme-3d-contrib-theta.vercel.app/api?username=MadhavVashisht&theme=dracula" width="100%" alt="3D Contribution Graph" />
+  <!-- Stabilized 3D API endpoint -->
+  <img src="https://github-readme-3d-contrib.vercel.app/api?username=MadhavVashisht&theme=dracula" width="100%" alt="3D Contribution Graph" />
 </div>
 
 <div align="center">
-  <!-- Live Animated 3D Neon Snake (Generated by GitHub Actions) -->
+  <!-- Live Animated 3D Neon Snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/output/github-contribution-grid-snake.svg">
