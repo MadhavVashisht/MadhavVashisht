@@ -1,80 +1,133 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/banner.png" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/banner.png" width="100%" alt="Header Banner" />
 </div>
 
-<h1 align="center">Hi, I'm Madhav Vashisht <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">Full Stack Developer | Student at CGC University</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MadhavVashisht&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/MadhavVashisht">
-    <img src="https://img.shields.io/github/followers/MadhavVashisht?label=Follow&style=social" alt="Follow">
+<div align="center">
+  <h1 align="center">Madhav Vashisht</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Explorer;Building+Immersive+Web+Experiences;Student+at+CGC+University" alt="Typing SVG" />
   </a>
-</p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MadhavVashisht&label=SYSTEM%20VIEWS&color=00f2fe&style=flat-square" alt="Profile Views" />
+    <a href="https://github.com/MadhavVashisht">
+      <img src="https://img.shields.io/github/followers/MadhavVashisht?label=FOLLOWERS&style=flat-square&color=4facfe" alt="Followers" />
+    </a>
+  </p>
+</div>
 
 ---
 
+### ⚡ System Profile
+
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h2>🚀 About Me</h2>
-      <ul>
-        <li>🔭 Building my personal brand and portfolio at <a href="https://amadhav.com"><strong>amadhav.com</strong></a></li>
-        <li>🎓 Pursuing my degree at <strong>CGC University, Mohali</strong></li>
-        <li>💼 <strong>Highlight:</strong> Led the web development team as Website Head for <strong>Saviskar 2025</strong></li>
-        <li>🌱 Currently diving deep into <strong>Next.js, Framer Motion, & AI Agents</strong></li>
-        <li>⚡ <strong>Fun fact:</strong> I love bridging the gap between clean design and robust functionality.</li>
-      </ul>
+    <td width="58%" valign="top">
+      <pre>
+<span style="color: #00F2FE;">madhav@vashisht-core</span>:~$ cat profile.json
+{
+  "location": "Mohali, India",
+  "education": "B.Tech in Blockchain Tech @ CGC University",
+  "core_focus": ["Full-Stack Dev", "AI & Computer Vision", "Automation"],
+  "current_deep_dive": ["Next.js", "Framer Motion", "AI Agents"],
+  "notable_role": "Website Head @ Saviskar 2025",
+  "portfolio": "<a href="https://amadhav.com" style="color: #4FACFE;">amadhav.com</a>"
+}
+      </pre>
     </td>
-    <td width="40%" valign="center">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/me.png" width="85%" alt="Madhav's Avatar" />
-      </div>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/me.png" width="90%" style="border-radius: 12px; border: 1px solid #1f2937;" alt="Madhav Avatar" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠 Tech Stack & Tools
+### 🛠 Tech Arsenal
 
-<p>
-  <strong>Frontend:</strong><br>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
+<div align="left">
 
+**Languages & Core**  
 <p>
-  <strong>Languages:</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
+**Frontend & Creative Tech**  
 <p>
-  <strong>Tools & Ecosystem:</strong><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
+
+**AI, Vision & Ecosystem**  
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GAS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhavVashisht&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavVashisht&theme=radium&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
 
-## 🌍 Let's Connect
+### 🚀 Featured Deployments
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/madhav-vashisht/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌌 NEURONOVA</h4>
+      <p>Interactive YOLO-based object detection platform with a sci-fi UI built with Streamlit and Ultralytics.</p>
+      <code>Python</code> • <code>YOLO</code> • <code>Streamlit</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Saviskar 2025 Registrations</h4>
+      <p>Full festival registration architecture supporting team creation and AWS SES OTP authentication.</p>
+      <code>Node.js</code> • <code>AWS SES</code> • <code>JavaScript</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 SETA Telegram Bot</h4>
+      <p>Automated desktop scheduling and reporting engine dispatching Excel data direct to Telegram channels.</p>
+      <code>Python</code> • <code>Pandas</code> • <code>Telegram API</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎙️ Jarvis Assistant</h4>
+      <p>Custom Python-based voice automation assistant executing desktop operations and intelligence queries.</p>
+      <code>Python</code> • <code>Automation</code> • <code>Speech API</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Telemetry & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhavVashisht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavVashisht&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+---
+
+### 📡 Initialize Connection
+
+<div align="left">
+  <a href="https://amadhav.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
-  <a href="https://amadhav.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" />
+  <a href="https://www.linkedin.com/in/madhav-vashisht/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <a href="mailto:mvashisht911@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
