@@ -24,17 +24,17 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <pre>
-<span style="color: #00F2FE;">J.A.R.V.I.S.</span>:~$ initializing profile_core.json...
-{
-  "location": "Mohali, India",
-  "education": "B.Tech in Blockchain Tech @ CGC",
-  "core_focus": ["Full-Stack Dev", "AI & Computer Vision"],
-  "current_deep_dive": ["Next.js", "Framer Motion", "AI Agents"],
-  "notable_role": "Website Head @ Saviskar 2025",
-  "portfolio": "<a href="https://amadhav.com" style="color: #4FACFE;">amadhav.com</a>"
-}
-      </pre>
+      <blockquote>
+        <code><span style="color: #00F2FE;">J.A.R.V.I.S.</span>:~$ initializing profile_core.json...</code><br><br>
+        <code>{</code><br>
+        <code>&nbsp;&nbsp;"location": "Mohali, India",</code><br>
+        <code>&nbsp;&nbsp;"education": "B.Tech in Blockchain Tech @ CGC",</code><br>
+        <code>&nbsp;&nbsp;"core_focus": ["Full-Stack Dev", "AI & Computer Vision"],</code><br>
+        <code>&nbsp;&nbsp;"current_deep_dive": ["Next.js", "Framer Motion", "AI Agents"],</code><br>
+        <code>&nbsp;&nbsp;"notable_role": "Website Head @ Saviskar 2025",</code><br>
+        <code>&nbsp;&nbsp;"portfolio": "<a href="https://amadhav.com">amadhav.com</a>"</code><br>
+        <code>}</code>
+      </blockquote>
     </td>
     <td width="42%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/avatar_v2.png" width="80%" style="border-radius: 12px; border: 2px solid #00F2FE; box-shadow: 0 0 15px #00F2FE;" alt="Madhav Avatar" />
