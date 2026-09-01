@@ -17,10 +17,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/jarvis_core.png" width="120px" style="border-radius: 50%; box-shadow: 0 0 20px #00F2FE;" alt="Arc Reactor Core" />
-</div>
-
 ---
 
 ### ⚡ System Profile
@@ -49,11 +45,6 @@
 ---
 
 ### 🛠 Tech Arsenal
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/main/tech_wheels_holographic.png" width="100%" style="border-radius: 12px;" alt="Tech Wheels" />
-</div>
-<br>
 
 <div align="left">
 
@@ -121,28 +112,20 @@
 
 ---
 
-### 📊 Telemetry & Activity (Live Data)
+### 📊 Telemetry & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhavVashisht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavVashisht&theme=dark&fire=00F2FE&ring=4FACFE&currStreakLabel=4FACFE&bg_color=0D1117&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
----
-
-### 🌐 3D Contribution Matrix
-
-<div align="center">
-  <!-- Stabilized 3D API endpoint -->
-  <img src="https://github-readme-3d-contrib.vercel.app/api?username=MadhavVashisht&theme=dracula" width="100%" alt="3D Contribution Graph" />
+  <!-- Centered reliable Streak API -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavVashisht&theme=dark&fire=00F2FE&ring=4FACFE&currStreakLabel=4FACFE&bg_color=0D1117&hide_border=true" alt="GitHub Streak" width="60%" />
 </div>
 
 <div align="center">
+  <br>
   <!-- Live Animated 3D Neon Snake -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MadhavVashisht/MadhavVashisht/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MadhavVashisht/MadhavVashisht/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MadhavVashisht/MadhavVashisht/blob/output/github-contribution-grid-snake.svg?raw=true">
+    <img alt="github contribution grid snake animation" src="https://github.com/MadhavVashisht/MadhavVashisht/blob/output/github-contribution-grid-snake-dark.svg?raw=true" width="100%">
   </picture>
 </div>
 
